@@ -164,7 +164,7 @@ Our experiments show that:
 ## 🖼️ Example Output
 
 <p align="center">
-  <img src="Figs/Sp_SK.png" width="500">
+  <img src="Figs/Sp_Sk.png" width="500">
 </p>
 
 ---
