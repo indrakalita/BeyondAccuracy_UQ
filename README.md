@@ -57,6 +57,7 @@ This work demonstrates that:
 ├── utils.py              # Utility/helper functions
 ├── uqtools/              # Custom uncertainty quantification tools
 ```
+This work leverages the modular uncertainty quantification toolkit [`uqtools`](https://github.com/indrakalita/uqtools) for probabilistic modeling and evaluation.
 
 ---
 
