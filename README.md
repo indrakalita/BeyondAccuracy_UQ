@@ -164,7 +164,12 @@ Our experiments show that:
 ## 🖼️ Example Output
 
 <p align="center">
-  <img src="Figs/Sp_Sk.png" width="500">
+ <img src="Figs/Rel_curve.png" width="500">
+ <img src="Figs/Sp_Sk.png" width="500">
+ <img src="Figs/duEffi_Sk.png" width="500">
+ <img src="Figs/dUMobile.png" width="500">
+ <img src="Figs/dUPEffi.png" width="500">
+ <img src="Figs/dURes.png" width="500">
 </p>
 
 ---
