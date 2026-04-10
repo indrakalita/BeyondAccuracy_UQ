@@ -174,7 +174,7 @@ Our experiments show that:
 
   <!-- Row 2 -->
   <img src="Figs/dUMobile.png" width="32%">
-  <img src="Figs/dUEffi_Sk.png" width="32%">
+  <img src="Figs/dUEffi.png" width="32%">
   <img src="Figs/dUPEffi.png" width="32%">
 
 </p>
